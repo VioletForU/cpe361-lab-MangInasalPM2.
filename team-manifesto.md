@@ -2,7 +2,6 @@
 
 
 
-printf("Mang Inasal pm2");
-wake me up when september ends
+printf("Mang Inasal pm2"); fgcfghdfhfghfghfgh
 
 
