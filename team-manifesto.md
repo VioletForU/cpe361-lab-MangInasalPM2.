@@ -2,7 +2,8 @@
 
 
 BASTA IMONG MAMA
-printf("Mang Inasal pm2");
+printf("Mang Inasal pm2"); BALLS MCGEE
+
 AS
 
-plasdplasdplasd
+plasdplasdplasddads
